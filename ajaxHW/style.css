@@ -1,0 +1,55 @@
+body {
+    font: 18px arial, sans-serif;
+    background: #eee;
+  }
+  
+  #animals {
+    width: 70%;
+  }
+  
+  form {
+    z-index: 4;  
+    float: left;
+    width: 95%;
+    padding: 20px;
+  }
+  
+  label {
+    z-index: 4;  
+    display: block;
+    margin-bottom: 10px;
+    font-weight: 700;
+  }
+  
+  input[type="text"] {
+    z-index: 4;
+    width: 100%;
+    height: 30px;
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  button,
+  input[type="submit"] {
+    z-index: 4;
+    padding: 5px 20px;
+    margin: 0 10px 10px 0;
+    font-size: 18px;
+    color: #fff;
+    cursor: pointer;
+    background: #265cad;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 2px 2px 3px #bbb;
+  }
+  
+  button:hover,
+  input[type="submit"]:hover {
+    z-index: 4;
+    background: #334e4d;
+  }
+  
+  button.active {
+    z-index: 4;
+    background: #334e4d;
+  }
