@@ -1,0 +1,31 @@
+body {
+    background-image: url("https://image.shutterstock.com/z/stock-vector-hand-drawn-science-formulas-on-chalkboard-for-background-289219460.jpg");
+    
+    }
+    
+    .navbar {
+        background-image: url("https://image.freepik.com/free-vector/geometric-pattern-background_1319-214.jpg");
+        font-weight: 900;
+        
+    }
+    
+    .main {
+        border-radius: 12px;
+        border: 2px solid yellowgreen;
+        background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/00/03/13/65561d160c2652d.jpg");
+        padding: 10%;
+        color: #ebebeb;
+    }
+    
+    .start {
+        background-color: rgb(59, 100, 87);
+        border-radius: 12px;
+        font-size: 20px;
+        border: 2px solid yellow;
+    }
+    
+    .answers p:hover {
+        color: black;
+        border: 2px;
+        border-style: solid;
+    }
